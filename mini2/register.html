@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="assets/css/jquery.mobile-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mobile.theme-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mobile.structure-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+<div id="registerPage" data-role="page">
+
+    <div data-role="header" data-position="fixed">
+        <h1>Registration Page</h1>
+    </div>
+
+    <div data-role="content">
+        <div name="registration" novalidate class="css-form">
+
+            <!-- <p>Blah for now </p> -->
+
+            <div data-role="fieldcontain">
+                <label for="username">Username:</label>
+                <input type="text" name="username"id="username" value="" data-mini="true"
+                       required check-elem/>
+                <span id="servercheck-username"></span>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="firstname">First Name:</label>
+                <input type="text" name="firstname" id="firstname" value="" data-mini="true"
+                       required/>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="lastname">Last Name:</label>
+                <input type="text" name="lastname" id="lastname" value="" data-mini="true"
+                       required/>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" value="" data-mini="true" required check-elem/>
+                <span id="servercheck-email"></span>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="cellPhone">Cellphone:</label>
+                <input type="text" name="cellPhone" id="cellPhone" value="" data-mini="true"
+                       placeholder="e.g. 123-343-1222">
+            </div>
+
+            <div data-role="fieldcontain">
+                <fieldset data-role="controlgroup" data-mini="true" required="gender">
+                    <legend>Gender:</legend>
+                    <input type="radio" name="gender" ng-model="user.gender" id="radio-choice-1" value="M"/>
+                    <label for="radio-choice-1">Male</label>
+
+                    <input type="radio" name="gender" ng-model="user.gender" id="radio-choice-2" value="F"/>
+                    <label for="radio-choice-2">Female</label>
+                </fieldset>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="password">Password:</label>
+                <input type="password" name="password" id="password" value="" data-mini="true"
+                       ng-required="true" ng-minlength="3" ng-maxlength="30"/>
+            </div>
+
+            <div data-role="popup" id="message" data-theme="d" data-overlay-theme="b" class="ui-content"
+                 style="max-width:340px;">
+                <h3>Registration</h3>
+                <p>Your account was successfully created !</p>
+                <div class="ui-grid-a">
+                    <div class="ui-block-a"><a href="index.html" data-role="button" data-mini="true" data-ajax="false">Sign</a></div>
+                </div>
+            </div>
+            <div class="ui-body">
+                <fieldset class="ui-grid-a">
+                    <div class="ui-block-a">
+                        <button data-theme="a" data-mini="true" ng-click="register()">Register</button>
+                    </div>
+                    <div class="ui-block-b">
+                        <button data-theme="d" data-mini="true" ng-click="cancel()">Cancel</button>
+                    </div>
+                </fieldset>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript" src="assets/js/vendor/jquery.js"></script>
+<script type="text/javascript" src="assets/js/vendor/jquery.mobile.min.js"></script>
+<script type="text/javascript" src="assets/js/vendor/lodash.js"></script>
+<script type="text/javascript" src="assets/js/main.js"></script>
+
+</body>
+</html>

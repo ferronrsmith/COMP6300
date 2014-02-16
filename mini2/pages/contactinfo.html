@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="../assets/css/cal.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile.theme-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile.structure-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+
+<form>
+<div id="contactPage" data-role="page">
+
+    <div data-role="header" data-position="fixed">
+        <a href="../main.html" data-icon="home" data-ajax="false">Home</a>
+        <h1>Contact Information Entry Page</h1>
+        <a href="#" data-icon="info" data-ajax="false" onclick="logout()">Logout</a>
+    </div>
+
+    <div data-role="content">
+        <div name="contactInfo" novalidate class="css-form">
+
+            <div data-role="fieldcontain">
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" value="" data-mini="true"
+                       required/>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="homeNumber">Phone (Landline):</label>
+                <input type="text" name="homeNumber" id="homeNumber" value="" data-mini="true"
+                       required/>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="workNumber">Work:</label>
+                <input type="text" name="workNumber" id="workNumber" value="" data-mini="true"
+                       required/>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="mobileNumber">Mobile:</label>
+                <input type="text" name="mobileNumber" id="mobileNumber" value="" data-mini="true"
+                       required/>
+            </div>
+
+
+            <div data-role="fieldcontain">
+                <label for="fee">Who will be responsible for your fees? :</label>
+                <select id="fee" onchange="checkForOther()" name="fee">
+                    <option value="default">Select Payee</option>
+                    <option value="Self">Self</option>
+                    <option value="Government">Government</option>
+                    <option value="Parent">Parent</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="other">Other:</label>
+                <input type="text" name="other" id="other" value="" data-mini="true"
+                       required/>
+            </div>
+
+            <div class="ui-body">
+                <fieldset class="ui-grid-a">
+                    <div class="ui-block-a">
+                        <button data-theme="b" data-mini="true" onclick="saveContactInfo();">Save</button>
+                    </div>
+                    <div class="ui-block-b">
+                        <button data-theme="c" data-mini="true" onclick="changeAppPage();">Next</button>
+                    </div>
+                </fieldset>
+            </div>
+
+        </div>
+    </div>
+</div>
+</form>
+
+<script type="text/javascript" src="../assets/js/vendor/jquery.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/jquery.mobile.min.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/xdate.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/jquery.maskedinput.js"></script>
+<script type="text/javascript" src="../assets/js/utils.js"></script>
+<script type="text/javascript" src="../assets/js/queue.js"></script>
+<script type="text/javascript" src="../assets/js/db.js"></script>
+<script type="text/javascript" src="../assets/js/main.js"></script>
+<script>
+    $(function() {
+
+        $("#homeNumber, #mobileNumber, #workNumber").mask("(999) 999-9999");
+
+        checkForOther();
+
+        dbApp.setup();
+
+        populateContactPage();
+
+
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <studyoptioncodes>
+        <studyoptioncode>
+            <Code>F</Code>
+            <Name>FullTime</Name>
+        </studyoptioncode>
+        <studyoptioncode>
+            <Code>P</Code>
+            <Name>Part-time (Paper-base)</Name>
+        </studyoptioncode>
+        <studyoptioncode>
+            <Code>PTP</Code>
+            <Name>Part-time (Online)</Name>
+        </studyoptioncode>
+        <studyoptioncode>
+            <Code>PTSC</Code>
+            <Name>Part-time (Special Programme/Course)</Name>
+        </studyoptioncode>
+    </studyoptioncodes>
+    <size>4</size>
+</xml>

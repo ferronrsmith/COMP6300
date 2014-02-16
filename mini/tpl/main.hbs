@@ -1,0 +1,8 @@
+<td>{{ name }}</td>
+<td>{{ email }}</td>
+<td>{{ fact }}</td>
+{{#if hobbies}}
+    {{#each hobbies}}
+        <td>{{this}}</td>
+    {{/each}}
+{{/if}}

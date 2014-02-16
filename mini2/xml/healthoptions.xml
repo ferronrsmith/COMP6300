@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <healthoptioncodes>
+        <healthoptioncode>
+            <Code>AL</Code>
+            <Description>Allergies</Description>
+        </healthoptioncode>
+        <healthoptioncode>
+            <Code>AS</Code>
+            <Description>Asthmatic</Description>
+        </healthoptioncode>
+        <healthoptioncode>
+            <Code>DI</Code>
+            <Description>Diabetic</Description>
+        </healthoptioncode>
+        <healthoptioncode>
+            <Code>EP</Code>
+            <Description>Epileptic</Description>
+        </healthoptioncode>
+    </healthoptioncodes>
+    <size>4</size>
+</xml>

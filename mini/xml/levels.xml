@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <levelcodes>
+        <levelcode>
+            <Code>Alevel</Code>
+            <Name>A Level</Name>
+            <exambody>GCE</exambody>
+        </levelcode>
+        <levelcode>
+            <Code>BAS</Code>
+            <Name>Basic</Name>
+            <exambody>CXC</exambody>
+        </levelcode>
+        <levelcode>
+            <Code>GEN</Code>
+            <Name>General</Name>
+            <exambody>CXC</exambody>
+        </levelcode>
+        <levelcode>
+            <Code>OLevel</Code>
+            <Name>O Level</Name>
+            <exambody>GCE</exambody>
+        </levelcode>
+    </levelcodes>
+    <size>4</size>
+</xml>

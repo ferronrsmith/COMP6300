@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="../assets/css/cal.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile.theme-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile.structure-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+
+<div id="registerPage" data-role="page">
+
+    <div data-role="header" data-position="fixed">
+        <a href="../main.html" data-icon="home" data-ajax="false">Home</a>
+        <h1>Medical Information Entry Page</h1>
+        <a href="#" data-icon="info" data-ajax="false" onclick="logout()">Logout</a>
+    </div>
+
+     <form>
+        <div data-role="content">
+        <form name="registration" class="css-form">
+
+            <!-- <p>Blah for now </p> -->
+
+            <div data-role="fieldcontain">
+                <label for="condition1">Condition #1:</label>
+                <select id="condition1" name="condition1">
+                    <option value="default">Select Condition #1</option>
+                </select>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="condition2">Condition #2:</label>
+                <select id="condition2" name="condition2">
+                    <option value="default">Select Condition #2</option>
+                </select>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="condition3">Condition #3:</label>
+                <select id="condition3" name="condition3">
+                    <option value="default">Select Condition #3</option>
+                </select>
+            </div>
+
+            <div data-role="fieldcontain">
+                <label for="condition4">Condition #4:</label>
+                <select id="condition4" name="condition4">
+                    <option value="default">Select Condition #4</option>
+                </select>
+            </div>
+
+            <div class="ui-body">
+                <fieldset class="ui-grid-a">
+                    <div class="ui-block-a">
+                        <button data-theme="b" data-mini="true" onclick="saveMedicalInfo();">Save</button>
+                    </div>
+                    <div class="ui-block-b">
+                        <button data-theme="c" data-mini="true" onclick="changeAppPage();">Next</button>
+                    </div>
+                </fieldset>
+            </div>
+
+        </form>
+    </div>
+     </form>
+</div>
+
+
+<script type="text/javascript" src="../assets/js/vendor/jquery.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/jquery.mobile.min.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/xdate.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/mobipick.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/jquery.maskedinput.js"></script>
+<script type="text/javascript" src="../assets/js/utils.js"></script>
+<script type="text/javascript" src="../assets/js/queue.js"></script>
+<script type="text/javascript" src="../assets/js/db.js"></script>
+<script type="text/javascript" src="../assets/js/main.js"></script>
+<script>
+    $(function() {
+
+        $("#bnumer").mask("99999-9999");
+
+        $("#zipcode").mask("99999");
+
+        dbApp.setup();
+
+        dbApp.getHealthDataFromDb('condition1', 'condition2', 'condition3', 'condition4');
+
+        populateMedPage();
+    });
+
+
+</script>
+
+</body>
+</html>

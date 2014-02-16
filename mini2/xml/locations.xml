@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <locationcodes>
+        <locationcode>
+            <Code>ASS</Code>
+            <Name>Alexandra Seconadry School</Name>
+        </locationcode>
+        <locationcode>
+            <Code>GSS</Code>
+            <Name>St. George Secondary School</Name>
+        </locationcode>
+        <locationcode>
+            <Code>Pine</Code>
+            <Name>Main Campus (Pine)</Name>
+        </locationcode>
+        <locationcode>
+            <Code>PMSS</Code>
+            <Name>Princess Margaret Secondary School</Name>
+        </locationcode>
+    </locationcodes>
+    <size>4</size>
+</xml>

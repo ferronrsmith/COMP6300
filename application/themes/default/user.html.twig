@@ -1,0 +1,9 @@
+{% extends _layout %}
+
+{% block content %}
+
+    {% if user  %}
+        <p>Hello {{ user.firstname }} {{ user.lastname }}</p>
+    {% endif %}
+
+{% endblock %}

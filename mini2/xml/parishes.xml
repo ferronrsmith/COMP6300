@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <parishes>
+        <parish>
+            <Code>X</Code>
+            <ParishName>Christ Church</ParishName>
+        </parish>
+        <parish>
+            <Code>A</Code>
+            <ParishName>St. Andrew</ParishName>
+        </parish>
+        <parish>
+            <Code>G</Code>
+            <ParishName>St. George</ParishName>
+        </parish>
+        <parish>
+            <Code>S</Code>
+            <ParishName>St. James</ParishName>
+        </parish>
+        <parish>
+            <Code>J</Code>
+            <ParishName>St. John</ParishName>
+        </parish>
+        <parish>
+            <Code>O</Code>
+            <ParishName>St. Joseph</ParishName>
+        </parish>
+        <parish>
+            <Code>L</Code>
+            <ParishName>St. Lucy</ParishName>
+        </parish>
+        <parish>
+            <Code>M</Code>
+            <ParishName>St. Michael</ParishName>
+        </parish>
+        <parish>
+            <Code>E</Code>
+            <ParishName>St. Peter</ParishName>
+        </parish>
+        <parish>
+            <Code>P</Code>
+            <ParishName>St. Philip</ParishName>
+        </parish>
+        <parish>
+            <Code>T</Code>
+            <ParishName>St. Thomas</ParishName>
+        </parish>
+    </parishes>
+    <size>11</size>
+</xml>

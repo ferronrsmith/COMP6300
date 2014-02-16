@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <immigrationcodes>
+        <immigrationcode>
+            <Code>001</Code>
+            <Name>Immigrant status of 5 years or more</Name>
+        </immigrationcode>
+        <immigrationcode>
+            <Code>002</Code>
+            <Name>Immigrant status of less than 5 years</Name>
+        </immigrationcode>
+        <immigrationcode>
+            <Code>003</Code>
+            <Name>Caricom Skilled National</Name>
+        </immigrationcode>
+        <immigrationcode>
+            <Code>004</Code>
+            <Name>Citizen by Descent</Name>
+        </immigrationcode>
+        <immigrationcode>
+            <Code>005</Code>
+            <Name>Citizen</Name>
+        </immigrationcode>
+        <immigrationcode>
+            <Code>006</Code>
+            <Name>International Student</Name>
+        </immigrationcode>
+        <immigrationcode>
+            <Code>007</Code>
+            <Name>Regional Student</Name>
+        </immigrationcode>
+    </immigrationcodes>
+    <size>7</size>
+</xml>

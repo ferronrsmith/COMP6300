@@ -1,0 +1,10 @@
+# works on a real server not localhost
+#RewriteEngine on
+#RewriteCond $1 !^(index\.php|images|robots\.txt)
+#RewriteRule ^(.*)$ /index.php/$1 [L]
+# sample_app_1 represents the root folder of the application
+RewriteEngine On
+RewriteBase /sample_app_1/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /sample_app_1/index.php/$1 [L]

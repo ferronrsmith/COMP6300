@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <programtypes>
+        <programtype>
+            <Code></Code>
+            <Programtype>Diploma</Programtype>
+        </programtype>
+        <programtype>
+            <Code>CERT</Code>
+            <Programtype>Certificate</Programtype>
+        </programtype>
+    </programtypes>
+    <size>2</size>
+</xml>
+

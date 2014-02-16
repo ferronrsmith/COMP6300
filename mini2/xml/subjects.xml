@@ -1,0 +1,2232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <subjects>
+        <subject>
+            <Code>ACCT.UWI</Code>
+            <Name>Accounting (BSc.)</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>ACCOUNTING</Code>
+            <Name>Accounting Overview</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>AFRO.A.C&amp;G</Code>
+            <Name>Advanced Diploma in Afro-Caribbean Hairdressing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>BEAU.A.C&amp;G</Code>
+            <Name>Advanced Diploma in Beauty Therapy</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>HAIR.A.C&amp;G</Code>
+            <Name>Advanced Diploma in Hairdressing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>AGRI.BCC</Code>
+            <Name>Agriculture - Associate Degree in Applied Science</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ARCH.BCC</Code>
+            <Name>Architectural Studies - Associate Degree in Applied Science</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ARDE.GCE</Code>
+            <Name>Art &amp; Design</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ATED.BCC</Code>
+            <Name>Art Education - Associate in Applied Arts</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>BUSN.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Business Studies</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>BUSNPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Business Studies (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FASH.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Fashion Design</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FINVPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Finance &amp; Investment (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FLBT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Foreign Languages for Business &amp; Tourism</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>LETA.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Literatures in English &amp; Theatre Arts</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MKTGPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Marketing (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MCOM.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Mass Communication</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MUSC.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Music</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MUSCPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Music (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>OADM.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Office Administration Management</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>OADMPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Office Administration Management (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PARAPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Paralegal Studies (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PSYCPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Psychology (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PSECPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Public Sector Management (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>SOWKPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Social Work (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>THEA.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Theatre Arts</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>THEAPT.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Theatre Arts (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>VART.BCC</Code>
+            <Name>Associate Degree in Applied Arts - Visual Arts</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>BCEG.BCC</Code>
+            <Name>Associate Degree in Applied Science - Building &amp; Civil Engineering</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>BCEGPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Building &amp; Civil Engineering (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>CMPS.BCC</Code>
+            <Name>Associate Degree in Applied Science - Computer Studies</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>CMPSPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Computer Studies (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>CULN.BCC</Code>
+            <Name>Associate Degree in Applied Science - Culinary Arts</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>DANC.BCC</Code>
+            <Name>Associate Degree in Applied Science - Dance</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>DANCPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Dance (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ELEC.BCC</Code>
+            <Name>Associate Degree in Applied Science - Electrical Engineering</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ELECPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Electrical Engineering (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ECEG.BCC</Code>
+            <Name>Associate Degree in Applied Science - Electronics &amp; Computer Engineering</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ECEGPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Electronics &amp; Computer Engineering (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ENHI.BCC</Code>
+            <Name>Associate Degree in Applied Science - Environmental Health Inspection</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>NURS.BCC</Code>
+            <Name>Associate Degree in Applied Science - General Nursing</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>HIM.BCC</Code>
+            <Name>Associate Degree in Applied Science - Health Information Management</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>HOSP.BCC</Code>
+            <Name>Associate Degree in Applied Science - Hospitality Studies</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>HOSPPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Hospitalty Studies (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>LSRV.BCC</Code>
+            <Name>Associate Degree in Applied Science - Land Surveying</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>LSRVPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Land Surveying (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MENG.BCC</Code>
+            <Name>Associate Degree in Applied Science - Mechanical Engineering</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MENGPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Mechanical Engineering (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MDLT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Medical Laboratory Technology</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PHRM.BCC</Code>
+            <Name>Associate Degree in Applied Science - Pharmacy</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PHEDPT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Physical Education (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>RTT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Rehabilitation Therapy Technology</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>SPRT.BCC</Code>
+            <Name>Associate Degree in Applied Science - Sport Management (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>TOUR.BCC</Code>
+            <Name>Associate Degree in Applied Science - Tourism &amp; Travel</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>COMM.BCC</Code>
+            <Name>Associate Degree in Arts - Commerce Majors</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>LANG.BCC</Code>
+            <Name>Associate Degree in Arts - Language Majors</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ARTS.BCC</Code>
+            <Name>Associate Degree in Arts - Liberal Arts Majors</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>SCIN.BCC</Code>
+            <Name>Associate Degree in Science - Science Majors</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FREN.UWI</Code>
+            <Name>Bachelor of Arts - French</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>HIST.UWI</Code>
+            <Name>Bachelor of Arts - History</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>LING.UWI</Code>
+            <Name>Bachelor of Arts - Linguistics</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>LITS.UWI</Code>
+            <Name>Bachelor of Arts - Literatures in English</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>PSYC.UWI</Code>
+            <Name>Bachelor of Arts - Psychology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>SPAN.UWI</Code>
+            <Name>Bachelor of Arts - Spanish</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>THEO.UWI</Code>
+            <Name>Bachelor of Arts - Theology - Licentiate in Theology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>TVOCHE.BCC</Code>
+            <Name>Bachelor of Education - Home Economics (Technical/Vocational)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>TVOCIA.BCC</Code>
+            <Name>Bachelor of Education - Industrial Arts (Technical/Vocational)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FNART.UWI</Code>
+            <Name>Bachelor of Fine Arts</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>GD.BFA.BCC</Code>
+            <Name>Bachelor of Fine Arts - Graphic Design</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>SA.BFA.BCC</Code>
+            <Name>Bachelor of Fine Arts - Studio Art</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>LAW.UWI</Code>
+            <Name>Bachelor of Laws</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>MDSC.UWI</Code>
+            <Name>Bachelor of Medicine and Bachelor Surgery</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>FINA.UWI</Code>
+            <Name>Bachelor of Science - Banking &amp; Finance</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>BHAV.UWI</Code>
+            <Name>Bachelor of Science - Behavioral Science</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>BIOC.UWI</Code>
+            <Name>Bachelor of Science - Biochemistry</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>BIOL.UWI</Code>
+            <Name>Bachelor of Science - Biology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>CHEM.UWI</Code>
+            <Name>Bachelor of Science - Chemistry</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>COMP.UWI</Code>
+            <Name>Bachelor of Science - Computer Science</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>COMPA.UWI</Code>
+            <Name>Bachelor of Science - Computer Science with Accounting</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>COMPM.UWI</Code>
+            <Name>Bachelor of Science - Computer Science with Management</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>ECOL.UWI</Code>
+            <Name>Bachelor of Science - Ecology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>ECON.UWI</Code>
+            <Name>Bachelor of Science - Economics</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>ELET.UWI</Code>
+            <Name>Bachelor of Science - Electronics</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>HTMGT.UWI</Code>
+            <Name>Bachelor of Science - Hospitality &amp; Tourism Management</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>HMGMT.UWI</Code>
+            <Name>Bachelor of Science - Hotel Management</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>INFO.UWI</Code>
+            <Name>Bachelor of Science - Information Technology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>INFOA.UWI</Code>
+            <Name>Bachelor of Science - Information Technology &amp; Accounting</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>INFOM</Code>
+            <Name>Bachelor of Science - Information Technology &amp; Management</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>LABER.UWI</Code>
+            <Name>Bachelor of Science - Labour &amp; Employment Relations</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>MGMT.UWI</Code>
+            <Name>Bachelor of Science - Management Studies</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>MATH.UWI</Code>
+            <Name>Bachelor of Science - Mathematics</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>METE.UWI</Code>
+            <Name>Bachelor of Science - Meterology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>MICR.UWI</Code>
+            <Name>Bachelor of Science - Microbiology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>PHYS.UWI</Code>
+            <Name>Bachelor of Science - Physics</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>GOVT.UWI</Code>
+            <Name>Bachelor of Science - Political Science</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>PSMGT.UWI</Code>
+            <Name>Bachelor of Science - Public Sector Management</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>SOCI.UWI</Code>
+            <Name>Bachelor of Science - Social Sciences</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>SOWK.UWI</Code>
+            <Name>Bachelor of Science - Social Work</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>SOCIO.UWI</Code>
+            <Name>Bachelor of Science - Sociology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>TMGMT.UWI</Code>
+            <Name>Bachelor of Science - Tourism Management</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>ED.UWI</Code>
+            <Name>Bachelors of Education</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>EDSS.UWI</Code>
+            <Name>Bachelors of Education - Social Studies</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>PHIL.UWI</Code>
+            <Name>Bachlor of Arts - Philosophy</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>BIOL.GCE</Code>
+            <Name>Biology</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ARGI.CAMB</Code>
+            <Name>Cambridge Argriculture</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>ART.CAMB</Code>
+            <Name>Cambridge Art</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>BIOL.CAMB</Code>
+            <Name>Cambridge Biology</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>BUSI.CAMB</Code>
+            <Name>Cambridge Business Studies</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>CHEM.CAMB</Code>
+            <Name>Cambridge Chemistry</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>COMM.CAMB</Code>
+            <Name>Cambridge Commerce</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>COMS.CAMB</Code>
+            <Name>Cambridge Commercial Studies</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>COMP.CAMB</Code>
+            <Name>Cambridge Computer Studies</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>ECON.CAMB</Code>
+            <Name>Cambridge Economics</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>ENGA.CAMB</Code>
+            <Name>Cambridge English Language</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>ENVM.CAMB</Code>
+            <Name>Cambridge Environmental Management</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>FAFB.CAMB</Code>
+            <Name>Cambridge Fashion &amp; Fabrics</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>FOOD.CAMB</Code>
+            <Name>Cambridge Food &amp; Nutrition</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>FREN.CAMB</Code>
+            <Name>Cambridge French</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>GEOG.CAMB</Code>
+            <Name>Cambridge Geography</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>GMDR.CAMB</Code>
+            <Name>Cambridge Geometrical &amp; Mechanical Drawing</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>GRMN.CAMB</Code>
+            <Name>Cambridge German</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>HIST.CAMB</Code>
+            <Name>Cambridge History</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>HMGT.CAMB</Code>
+            <Name>Cambridge Home Management</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>HUMA.CAMB</Code>
+            <Name>Cambridge Human &amp; Social Biology</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>ENGB.CAMB</Code>
+            <Name>Cambridge Literature in English</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>MATHA.CAMB</Code>
+            <Name>Cambridge Mathematics - Additional</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>PHYS.CAMB</Code>
+            <Name>Cambridge Physics</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>ACCT.CAMB</Code>
+            <Name>Cambridge Principles of Accounts</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>RELG.CAMB</Code>
+            <Name>Cambridge Religious Studies</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>SOCL.CAMB</Code>
+            <Name>Cambridge Sociology</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>SPAN.CAMB</Code>
+            <Name>Cambridge Spanish</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>STAT.CAMB</Code>
+            <Name>Cambridge Statistics</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>WOOD.CAMB</Code>
+            <Name>Cambridge Woodwork</Name>
+            <Level></Level>
+            <exam_body>CAMB</exam_body>
+        </subject>
+        <subject>
+            <Code>ACCT.CAPE</Code>
+            <Name>CAPE Accounting</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>MATHA.CAPE</Code>
+            <Name>CAPE Applied Mathematics</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>ARTD.CAPE</Code>
+            <Name>CAPE Art and Design</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>BIOL.CAPE</Code>
+            <Name>CAPE Biology</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>BUSI.CAPE</Code>
+            <Name>CAPE Business Studies</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>CARB.CAPE</Code>
+            <Name>CAPE Caribbean Studies</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>CHEM.CAPE</Code>
+            <Name>CAPE Chemistry</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>COMP.CAPE</Code>
+            <Name>CAPE Computer Science</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>ECON.CAPE</Code>
+            <Name>CAPE Economics</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>ELET.CAPE</Code>
+            <Name>CAPE Electrical &amp; Electronic Technology</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>ENVS.CAPE</Code>
+            <Name>CAPE Environmental Science</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>FOOD.CAPE</Code>
+            <Name>CAPE Food and Nutrition</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>FREN.CAPE</Code>
+            <Name>CAPE French</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>GEOG.CAPE</Code>
+            <Name>CAPE Geography</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>GMED.CAPE</Code>
+            <Name>CAPE Geometrical &amp; Mechanical Engineering</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>HIST.CAPE</Code>
+            <Name>CAPE History</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>INFO.CAPE</Code>
+            <Name>CAPE Information Technology</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>LAW.CAPE</Code>
+            <Name>CAPE Law</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>ENGB.CAPE</Code>
+            <Name>CAPE Literature in English</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>MGMTB.CAPE</Code>
+            <Name>CAPE Management of Business</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>PHYS.CAPE</Code>
+            <Name>CAPE Physics</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>PMATH.CAPE</Code>
+            <Name>CAPE Pure Mathematics</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>SOCL.CAPE</Code>
+            <Name>CAPE Sociology</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>SPAN.CAPE</Code>
+            <Name>CAPE Spanish</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>DRAW.CAPE</Code>
+            <Name>CAPE Technical Drawing</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>AGRI.C.C&amp;G</Code>
+            <Name>Cert.Tropical Agriculture - Principles of Tropical</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>AFRO.C.C&amp;G</Code>
+            <Name>Certificate in Afro-Caribbean Hairdressing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>ANIM.C.C&amp;G</Code>
+            <Name>Certificate in Animal Husbandry</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>BEAU.C.C&amp;G</Code>
+            <Name>Certificate in Beauty Therapy</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>COEDCT.BCC</Code>
+            <Name>Certificate in Continuing Education</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>COEDHI.BCC</Code>
+            <Name>Certificate in Continuing Education (Hospitality Institute)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>CROP.C.C&amp;G</Code>
+            <Name>Certificate in Crop Husbandry</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>ELEC.C.C&amp;G</Code>
+            <Name>Certificate in Electrical Installation</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>MECH.C.C&amp;G</Code>
+            <Name>Certificate in Engineering Skills</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>ENFLCT.BCC</Code>
+            <Name>Certificate in English As a Foreign Language</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FASHCT.BCC</Code>
+            <Name>Certificate in Fashion Design</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FOOD.C.C&amp;G</Code>
+            <Name>Certificate in Food Preparation &amp; Cooking</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>GNCT.BCC</Code>
+            <Name>Certificate in General Catering</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>HAIR.C.C&amp;G</Code>
+            <Name>Certificate in Hairdressing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>INFOCT.BCC</Code>
+            <Name>Certificate in Information Technology</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>INFOCT.UWI</Code>
+            <Name>Certificate in Information Technology &amp; Management</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>INFOPT.BCC</Code>
+            <Name>Certificate in Information Technology (Part Time)</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>INDC.BCC</Code>
+            <Name>Certificate in Interior Decorating</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>LIBTCT.BCC</Code>
+            <Name>Certificate In Library Information Technology (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MIC1.C.C&amp;G</Code>
+            <Name>Certificate in Microcomputer Technology - Part 1</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>MIC2.C.C&amp;G</Code>
+            <Name>Certificate in Microcomputer Technology - Part 2</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>MOTR.C.C&amp;G</Code>
+            <Name>Certificate in Motor Vehicle Systems</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>MUTFCT.BCC</Code>
+            <Name>Certificate in Mutual Funds</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>NRSACT.BCC</Code>
+            <Name>Certificate in Nursing Assistant</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PAIN.C.C&amp;G</Code>
+            <Name>Certificate in Painting &amp; Decorating</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>PARACT.BCC</Code>
+            <Name>Certificate in Paralegal Studies (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PLUM.C.C&amp;G</Code>
+            <Name>Certificate in Plumbing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>PHSC.BCC</Code>
+            <Name>Certificate in Pre-Health Sciences</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>RFAC.C.C&amp;G</Code>
+            <Name>Certificate in Refrigeration &amp; Air Conditioning</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>TIMB.C.C&amp;G</Code>
+            <Name>Certificate in Timber Vocations</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>TROW.C.C&amp;G</Code>
+            <Name>Certificate in Trowel Vocations</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>CHEM.GCE</Code>
+            <Name>Chemistry</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>COMM.GCE</Code>
+            <Name>Commerce</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>COMM.CAPE</Code>
+            <Name>Communication Studies - Cape</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>CPAT.BCC</Code>
+            <Name>Computer Aided Transcritpion - Certificate</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>COMP.GCE</Code>
+            <Name>Computing</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>CRED.BCC</Code>
+            <Name>Credit Program</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>CREDHI.BCC</Code>
+            <Name>Credit Program (Hospitality Institute Continuing Education)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ARGD.CXC</Code>
+            <Name>CXC Argricultural Science (Double)</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ARGS.CXC</Code>
+            <Name>CXC Argricultural Science (Single)</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ARTS.CXC</Code>
+            <Name>CXC Arts &amp; Craft</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>BIOL.CXC</Code>
+            <Name>CXC Biology</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>BCON.CXC</Code>
+            <Name>CXC Building Construction</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>BLDR.CXC</Code>
+            <Name>CXC Building Drawing</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>BTEC.CXC</Code>
+            <Name>CXC Building Technology</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>CHEM.CXC</Code>
+            <Name>CXC Chemistry</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>CLOT.CXC</Code>
+            <Name>CXC Clothing &amp; Textiles</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ECON.CXC</Code>
+            <Name>CXC Economics</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ELTC.CXC</Code>
+            <Name>CXC Electrical &amp; Electronic Technology</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>EDPM.CXC</Code>
+            <Name>CXC Electronic Document Preparation Management</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ELEC.CXC</Code>
+            <Name>CXC Electronics</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ENGA.CXC</Code>
+            <Name>CXC English Language</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ENGB.CXC</Code>
+            <Name>CXC English Literature</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>FOOD.CXC</Code>
+            <Name>CXC Food &amp; Nutrition</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>FREN.CXC</Code>
+            <Name>CXC French</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>GEOG.CXC</Code>
+            <Name>CXC Geography</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>HIST.CXC</Code>
+            <Name>CXC History</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>HOEC.CXC</Code>
+            <Name>CXC Home Economics</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>HOME.CXC</Code>
+            <Name>CXC Home Economics Management</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>HOMG.CXC</Code>
+            <Name>CXC Home Management</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>HUMA.CXC</Code>
+            <Name>CXC Human &amp; Social Biology</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>INDU.CXC</Code>
+            <Name>CXC Industrial Technology</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>INFO.CXC</Code>
+            <Name>CXC Information Technology</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ISCI.CXC</Code>
+            <Name>CXC Integrated Science</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>MATH.CXC</Code>
+            <Name>CXC Mathematics</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>MENG.CXC</Code>
+            <Name>CXC Mechanical Engineering Technology</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>METL.CXC</Code>
+            <Name>CXC Metals</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>MLAN.CXC</Code>
+            <Name>CXC Modern Languages</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>MUSC.CXC</Code>
+            <Name>CXC Music</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>OFFP.CXC</Code>
+            <Name>CXC Office Procedures</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ACCT.CXC</Code>
+            <Name>CXC Principles of Accounts</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>BUSI.CXC</Code>
+            <Name>CXC Principles of Business</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>DRAW.CXC</Code>
+            <Name>CXC Technical Drawing</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>THEA.CXC</Code>
+            <Name>CXC Theatre Arts</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>TYPE.CXC</Code>
+            <Name>CXC Typewriting</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>VISU.CXC</Code>
+            <Name>CXC Visual Arts</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>WOOD.CXC</Code>
+            <Name>CXC Woods (Woodwork)</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>DNAS.BCC</Code>
+            <Name>Dental Assistant - Certificate</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>WELD.D.C&amp;G</Code>
+            <Name>Dip. Eng. Skills Fabrication, Welding &amp; Pipework</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>MECH.D.C&amp;G</Code>
+            <Name>Dip. Eng. Skills Mechanical Fitting &amp; Plant Maint.</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>AFRO.D.C&amp;G</Code>
+            <Name>Diploma in Afro-Caribbean Hairdressing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>BEAU.D.C&amp;G</Code>
+            <Name>Diploma in Beauty Therapy</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>CHNUDP.BCC</Code>
+            <Name>Diploma in Community Health Nursing</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>CMHNDP.BCC</Code>
+            <Name>Diploma in Community Mental Health Nursing</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>TAPPDP.BCC</Code>
+            <Name>Diploma in Education - Technical/Applied</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ELEC.D.C&amp;G</Code>
+            <Name>Diploma in Electrical Installation</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>FOOD.D.C&amp;G</Code>
+            <Name>Diploma in Food Preparation &amp; Cooking Culinary Art</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>HAIR.D.C&amp;G</Code>
+            <Name>Diploma in Hairdressing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>INFODP.UWI</Code>
+            <Name>Diploma in Information Technology &amp; Accounting</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>INSPDP.BCC</Code>
+            <Name>Diploma in Inspection of Meats &amp; Other Foods</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MIDWDP.BCC</Code>
+            <Name>Diploma in Midwifery</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MOTR.D.C&amp;G</Code>
+            <Name>Diploma in Motor Vehicle Systems</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>PLUM.D.C&amp;G</Code>
+            <Name>Diploma in Plumbing</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>PNURDP.BCC</Code>
+            <Name>Diploma in Psychiatric Nursing</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PHADPT.BCC</Code>
+            <Name>Diploma in Public Health Administration (Part Time)</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>RFAC.D.C&amp;G</Code>
+            <Name>Diploma in Refrigeration &amp; Air Conditioning</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>SHRN.BCC</Code>
+            <Name>Diploma in Shortened Registered Nursing</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>TIMB.D.C&amp;G</Code>
+            <Name>Diploma in Timber Vocations - Site Carpentry</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>TROW.D.C&amp;G</Code>
+            <Name>Diploma in Trowel Vocations</Name>
+            <Level></Level>
+            <exam_body>CAPE</exam_body>
+        </subject>
+        <subject>
+            <Code>ECON.GCE</Code>
+            <Name>Economics</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ELTR.BCC</Code>
+            <Name>Electronics - Associate Degree in Applied Science</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>ENGA.GCE</Code>
+            <Name>English Language</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ENGB.GCE</Code>
+            <Name>English Literature</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>FBOP.BCC</Code>
+            <Name>Food &amp; Beverage Opearations</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>FREN.GCE</Code>
+            <Name>French</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ACCT.GCE</Code>
+            <Name>GCE Accounting</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ARGS.GCE</Code>
+            <Name>GCE Agricultural Science</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>BUSN.GCE</Code>
+            <Name>GCE Business Studies</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>DTEC.GCE</Code>
+            <Name>GCE Design &amp; Technology</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>FOOD.GCE</Code>
+            <Name>GCE Food &amp; Nutriton</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>GENP.GCE</Code>
+            <Name>GCE General Paper</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>GOPS.GCE</Code>
+            <Name>GCE Gov't &amp; Political Studies A Level</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>PYED.GCE</Code>
+            <Name>GCE Physical Education</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>PHSC.GCE</Code>
+            <Name>GCE Physical Science</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>PSYC.GCE</Code>
+            <Name>GCE Psychology</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>PMATH.GCE</Code>
+            <Name>GCE Pure Mathematics</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>SOCL.GCE</Code>
+            <Name>GCE Sociology</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>NURS.GNC</Code>
+            <Name>General Nursing</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>GEOG.GCE</Code>
+            <Name>Geography</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>GRAA.BCC</Code>
+            <Name>Graphic Advertising Art - Associate in Applied Art</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>HIST.GCE</Code>
+            <Name>History</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>HCIO.BCC</Code>
+            <Name>Hotel Catering &amp; Institutional Operations - AAS</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>HBIO.GCE</Code>
+            <Name>Human Biology</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ARTH.LCC</Code>
+            <Name>LCC Arithmetic</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>ADTR.LCC</Code>
+            <Name>LCC Audio Transcription</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>BADM.LCC</Code>
+            <Name>LCC Business Administration</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>BCAL.LCC</Code>
+            <Name>LCC Business Calculations</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>ENFB.LCC</Code>
+            <Name>LCC English for Business</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>ECOM.LCC</Code>
+            <Name>LCC English for Commerce</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>SEAA.LCC</Code>
+            <Name>LCC Secretarial Administrative Arithmetic</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>TEXT.LCC</Code>
+            <Name>LCC Text Production</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>TYPE.LCC</Code>
+            <Name>LCC Typewriting</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>COUN.UWI</Code>
+            <Name>Master of Science - Counselling Psychology</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>MATH.GCE</Code>
+            <Name>Mathematics</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>MDCF.BCC</Code>
+            <Name>Media Craft - Certificate</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>MIDW.GNC</Code>
+            <Name>Midwifery</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>NEWR.CXC</Code>
+            <Name>Needlework</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>NRSACT.GNC</Code>
+            <Name>Nursing Assistant</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>NRSAUX.GNC</Code>
+            <Name>Nursing Auxilary</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>OFFC.CXC</Code>
+            <Name>Office Administration</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>PHES.CXC</Code>
+            <Name>Physical Education &amp; Sport</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>PHYS.GCE</Code>
+            <Name>Physics</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>PHYS.CXC</Code>
+            <Name>Physics</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>ARTH.PIT</Code>
+            <Name>Pitman Arithmetic</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>BKAC.PIT</Code>
+            <Name>Pitman Bookkeeping &amp; Accounts</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>COMM.PIT</Code>
+            <Name>Pitman Commerce</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>ENG.PIT</Code>
+            <Name>Pitman English</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>OFFP.PIT</Code>
+            <Name>Pitman Office Procedures</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>SECP.PIT</Code>
+            <Name>Pitman Secretarial Practice</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>SHND.PIT</Code>
+            <Name>Pitman Shorthand</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>TYPE.PIT</Code>
+            <Name>Pitman Typewriting</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>WRDP.PIT</Code>
+            <Name>Pitman Word Processing</Name>
+            <Level></Level>
+            <exam_body>PITMN</exam_body>
+        </subject>
+        <subject>
+            <Code>PTRCCT.BCC</Code>
+            <Name>Police Recruit Training Certificate</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PTRC.BCC</Code>
+            <Name>Policing - Associate Degree in Applied Science</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PRSDCT.LCC</Code>
+            <Name>Private Secretary's Certificate</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>PRSDCT.BCC</Code>
+            <Name>Private Secretary's Diploma</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PSEDP.LCC</Code>
+            <Name>Private Secretary's Diploma</Name>
+            <Level></Level>
+            <exam_body>LCCI</exam_body>
+        </subject>
+        <subject>
+            <Code>PSEDP.BCC</Code>
+            <Name>Private Secretary's Diploma (Part Time)</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>PNUR.GNC</Code>
+            <Name>Psychiatric Nursing</Name>
+            <Level></Level>
+            <exam_body>NN</exam_body>
+        </subject>
+        <subject>
+            <Code>PNUR.BCC</Code>
+            <Name>Psychiatric Nursing - Associate in Applied Science</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>PSAM.BCC</Code>
+            <Name>Public Service Administration &amp; Management</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>RELG.CXC</Code>
+            <Name>Religious Education</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>RELG.GCE</Code>
+            <Name>Religious Studies</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>ACTS.SJPP</Code>
+            <Name>SJPP Accounts Technology</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>AGRI.SJPP</Code>
+            <Name>SJPP Agriculture</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>AHUS.SJPP</Code>
+            <Name>SJPP Animal Husbandry</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>APET.SJPP</Code>
+            <Name>SJPP Applied Electronics for Techncians</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>DRFT.SJPP</Code>
+            <Name>SJPP Architectural Drafting</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>AUTO.SJPP</Code>
+            <Name>SJPP Autobody Repairs</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>CMPM.SJPP</Code>
+            <Name>SJPP Basic Computer Maintenance</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>FURN.SJPP</Code>
+            <Name>SJPP Cabinet &amp; Furniture Making</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>JOIN.SJPP</Code>
+            <Name>SJPP Carpentry &amp; Joinery</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>CATR.SJPP</Code>
+            <Name>SJPP Catering</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>CCNM.SJPP</Code>
+            <Name>SJPP Child Care &amp; Nursery Management</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>CSDR.SJPP</Code>
+            <Name>SJPP Civil &amp; Structural Drafting</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>COSM.SJPP</Code>
+            <Name>SJPP Cosmetology</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>CHUS.SJPP</Code>
+            <Name>SJPP Crop Husbandry</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>EETD.SJPP</Code>
+            <Name>SJPP Electrical &amp; Electronics Technology</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>EINS.SJPP</Code>
+            <Name>SJPP Electrical Installation Diploma</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>WIRE.SJPP</Code>
+            <Name>SJPP Electrical Installation Wiring</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>ESRV.SJPP</Code>
+            <Name>SJPP Electronics Servicing Technology</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>SJPPENG</Code>
+            <Name>SJPP English Entrance Examination</Name>
+            <Level></Level>
+            <exam_body>TEST</exam_body>
+        </subject>
+        <subject>
+            <Code>ESTH.SJPP</Code>
+            <Name>SJPP Esthetics</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>GARM.SJPP</Code>
+            <Name>SJPP Garment Making</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>GERI.SJPP</Code>
+            <Name>SJPP Geriatric Studies</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>HOAS.SJPP</Code>
+            <Name>SJPP Home Appliance Servicing</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>HOME.SJPP</Code>
+            <Name>SJPP Home Economics</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>LAND.SJPP</Code>
+            <Name>SJPP Landscaping &amp; Horticulture</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>MDEN.SJPP</Code>
+            <Name>SJPP Marine Diesel Engineering</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>MARI.SJPP</Code>
+            <Name>SJPP Maritime Operations</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>MASN.SJPP</Code>
+            <Name>SJPP Masonry</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>SJPPMATH</Code>
+            <Name>SJPP Mathematics Entrance Examination</Name>
+            <Level></Level>
+            <exam_body>TEST</exam_body>
+        </subject>
+        <subject>
+            <Code>MECH.SJPP</Code>
+            <Name>SJPP Mechanical Maintenance</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>MICR.SJPP</Code>
+            <Name>SJPP Micro Computer Technology</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>MVEN.SJPP</Code>
+            <Name>SJPP Motor Vehicle Engineering</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>NETW.SJPP</Code>
+            <Name>SJPP Network Technologies</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>NURS.SJPP</Code>
+            <Name>SJPP Nursing Auxiliary Studies</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>OFFA.SJPP</Code>
+            <Name>SJPP Office Administration</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>PDEC.SJPP</Code>
+            <Name>SJPP Painting &amp; Decorating</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>PLMB.SJPP</Code>
+            <Name>SJPP Plumbing</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>PRNT.SJPP</Code>
+            <Name>SJPP Printing</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>RFAC.SJPP</Code>
+            <Name>SJPP Refrigeration &amp; Airconditioning</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>SENR.SJPP</Code>
+            <Name>SJPP Small Engine Repair</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>UPHT.SJPP</Code>
+            <Name>SJPP Upholstery</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>WELD.SJPP</Code>
+            <Name>SJPP Welding Engineering</Name>
+            <Level></Level>
+            <exam_body>SJPP</exam_body>
+        </subject>
+        <subject>
+            <Code>SOCI.CXC</Code>
+            <Name>Social Studies</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>SPAN.CXC</Code>
+            <Name>Spanish</Name>
+            <Level></Level>
+            <exam_body>CXC</exam_body>
+        </subject>
+        <subject>
+            <Code>SPAN.GCE</Code>
+            <Name>Spanish</Name>
+            <Level></Level>
+            <exam_body>GCE</exam_body>
+        </subject>
+        <subject>
+            <Code>TECH.D.C&amp;G</Code>
+            <Name>Technician Dip. in Applied Electrical Engineering</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>PLAN.D.C&amp;G</Code>
+            <Name>Technicians Dip. in Applied Mech Eng - Plant Tech</Name>
+            <Level></Level>
+            <exam_body>C&amp;G</exam_body>
+        </subject>
+        <subject>
+            <Code>TORS.BCC</Code>
+            <Name>Tourism Reception &amp; Sales</Name>
+            <Level></Level>
+            <exam_body>BCC</exam_body>
+        </subject>
+        <subject>
+            <Code>CRIK.UWI</Code>
+            <Name>UWI Cricket Studies (Msc.)</Name>
+            <Level></Level>
+            <exam_body>UWI</exam_body>
+        </subject>
+        <subject>
+            <Code>WRKEXP</Code>
+            <Name>Work Experience</Name>
+            <Level></Level>
+            <exam_body>APPL</exam_body>
+        </subject>
+    </subjects>
+    <size>371</size>
+</xml>

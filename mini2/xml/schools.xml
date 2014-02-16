@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <schools>
+        <school>
+            <Code>A1</Code>
+            <Name>Alexandra School</Name>
+        </school>
+        <school>
+            <Code>A2</Code>
+            <Name>Alleyne School</Name>
+        </school>
+        <school>
+            <Code>A3</Code>
+            <Name>Alma Parris Memorial Secondary School</Name>
+        </school>
+        <school>
+            <Code>A4</Code>
+            <Name>Christ Church Foundation School</Name>
+        </school>
+        <school>
+            <Code>A23</Code>
+            <Name>Codrington High School</Name>
+        </school>
+        <school>
+            <Code>A5</Code>
+            <Name>Coleridge and Parry School</Name>
+        </school>
+        <school>
+            <Code>A6</Code>
+            <Name>Combermere School</Name>
+        </school>
+        <school>
+            <Code>A7</Code>
+            <Name>Deighton Griffith Secondary School</Name>
+        </school>
+        <school>
+            <Code>A8</Code>
+            <Name>Ellerslie Secondary School</Name>
+        </school>
+        <school>
+            <Code>A9</Code>
+            <Name>Garrison Secondary School</Name>
+        </school>
+        <school>
+            <Code>A10</Code>
+            <Name>Grantley Adams Memorial School</Name>
+        </school>
+        <school>
+            <Code>A11</Code>
+            <Name>Harrison College</Name>
+        </school>
+        <school>
+            <Code>A24</Code>
+            <Name>Metropolitan High School</Name>
+        </school>
+        <school>
+            <Code>A12</Code>
+            <Name>Parkinson Memorial Secondary School</Name>
+        </school>
+        <school>
+            <Code>A13</Code>
+            <Name>Princess Margaret Secondary School</Name>
+        </school>
+        <school>
+            <Code>A14</Code>
+            <Name>Queen's College</Name>
+        </school>
+        <school>
+            <Code>A25</Code>
+            <Name>Seventh Day Adventist Secondary</Name>
+        </school>
+        <school>
+            <Code>A15</Code>
+            <Name>Springer Memorial Secondary School</Name>
+        </school>
+        <school>
+            <Code>A16</Code>
+            <Name>St. George Secondary School</Name>
+        </school>
+        <school>
+            <Code>A17</Code>
+            <Name>St. James Secondary School</Name>
+        </school>
+        <school>
+            <Code>A18</Code>
+            <Name>St. Leonard's Boys' Secondary School (Boys)</Name>
+        </school>
+        <school>
+            <Code>A19</Code>
+            <Name>St. Lucy Secondary School</Name>
+        </school>
+        <school>
+            <Code>A20</Code>
+            <Name>The Lester Vaughan School</Name>
+        </school>
+        <school>
+            <Code>A21</Code>
+            <Name>The Lodge School</Name>
+        </school>
+        <school>
+            <Code>A22</Code>
+            <Name>The St. Michael School</Name>
+        </school>
+    </schools>
+    <size>25</size>
+</xml>

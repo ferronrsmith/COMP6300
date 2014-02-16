@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="assets/css/jquery.mobile-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mobile.theme-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mobile.structure-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+    <div id="loginPage" data-role="page">
+
+        <div data-role="header" data-position="fixed">
+            <h1>Login Page</h1>
+        </div>
+
+        <div class="heading">
+            <img src="assets/images/sjpplogo.jpg">
+            <p>Samuel Jackman Prescod Polytechnic</p>
+            <p>Wildey, St. Michael, Barbados W. I. Telephone: (246) 426-1920; Fax: (246) 426-0843 <br/>
+                Website: <a href="http://www.sjpp.edu.bb" >http://www.sjpp.edu.bb</a><br/>
+                Student Application Form<br/>
+            </p>
+        </div>
+
+        <div data-role="content">
+                <div data-role="fieldcontain">
+                    <label for="username">Username:</label>
+                    <input type="text" name="username" id="username" data-mini="true" required placeholder="Enter your username"/>
+                </div>
+
+                <div data-role="fieldcontain">
+                    <label for="password">Password:</label>
+                    <input type="password" name="password" id="password" data-mini="true" required placeholder="Enter your password"/>
+                </div>
+                <span class="invalidUser" id="invalidUser">Invalid Username or Password</span>
+
+
+                <div class="ui-body">
+                    <fieldset class="ui-grid-c">
+                        <div class="ui-block-a">
+                            <button data-theme="b" data-mini="true" onclick="authenticate();">Login</button>
+                        </div>
+                    </fieldset>
+                </div>
+                <span>Don't have a login ? <a href="#popupRegister" data-rel="popup" data-position-to="window" data-role="button" data-inline="true" data-mini="true">SignUp</a></span>
+
+
+                <div data-role="popup" id="popupRegister" data-theme="a" class="ui-corner-all">
+                    <form>
+                        <div style="padding:10px 20px;">
+                            <h3>Please Register</h3>
+                            <label for="un" class="ui-hidden-accessible">Email:</label>
+                            <input type="text" name="user" id="un" value="" placeholder="username" data-theme="a" onblur="userExists()"/>
+                            <span id="servercheck-username">Someone already has that email Try Another ?</span>
+                            <label for="pw" class="ui-hidden-accessible">Password:</label>
+                            <input type="password" name="pass" id="pw" value="" placeholder="password" data-theme="a" />
+
+                            <button type="submit" data-theme="b" onclick="">Register</button>
+                        </div>
+                    </form>
+                </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="assets/js/vendor/jquery.js"></script>
+    <script type="text/javascript" src="assets/js/vendor/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="assets/js/vendor/lodash.js"></script>
+    <script type="text/javascript" src="assets/js/db.js"></script>
+    <script type="text/javascript" src="assets/js/utils.js"></script>
+    <script type="text/javascript" src="assets/js/main.js"></script>
+
+</body>
+</html>

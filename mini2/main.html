@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="assets/css/jquery.mobile-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mobile.theme-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mobile.structure-1.3.1.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+<div id="sectionPage" data-role="page">
+
+    <div data-role="header" data-position="fixed">
+        <a href="#" data-icon="refresh" data-ajax="false" onclick="dbApp.sync()">Sync</a>
+        <h1>Section Page</h1>
+        <a href="#" data-icon="info" data-ajax="false" onclick="logout()">Logout</a>
+    </div>
+
+    <div id="progressBar" class="default"><div></div></div>
+
+    <div data-role="content">
+        <div class="content-primary">
+            <ul data-role="listview">
+                <li><a href="pages/basicinfo.html" data-ajax="false">
+                    <img src="assets/images/main/pinfo.png" />
+                    <h3>Personal Information <span class="complete"></span></h3>
+                    <p>Enter Applicant Basic Application Details</p>
+                </a></li>
+                <li><a href="pages/addressinfo.html" data-ajax="false">
+                    <img src="assets/images/main/abook.png" />
+                    <h3>Address Information <span class="complete"></span></h3>
+                    <p>Enter Applicant Address Information</p>
+                </a></li>
+                <li><a href="pages/contactinfo.html" data-ajax="false">
+                    <img src="assets/images/main/contactinfo.png" />
+                    <h3>Contact Information <span class="complete"></span></h3>
+                    <p>Enter Applicant Contact Information</p>
+                </a></li>
+                <li><a href="pages/emergenctcontact.html" data-ajax="false">
+                    <img src="assets/images/main/emergency.png" />
+                    <h3>Emergency Information <span class="complete"></span></h3>
+                    <p>Enter Applicant Emergency Contact Detail</p>
+                </a></li>
+                <li><a href="pages/qualifications.html" data-ajax="false">
+                    <img src="assets/images/main/qualif.png" />
+                    <h3>Academic Qualification <span class="complete"></span></h3>
+                    <p>Enter Applicant Qualification History</p>
+                </a></li>
+                <li><a href="pages/school.html" data-ajax="false">
+                    <img src="assets/images/main/education.png" />
+                    <h3>Education History <span class="complete"></span></h3>
+                    <p>Enter Applicant Education History</p>
+                </a></li>
+                <li><a href="pages/workexp.html" data-ajax="false">
+                    <img src="assets/images/main/work.png" />
+                    <h3>Work Experience <span class="complete"></span></h3>
+                    <p>Enter Applicant Work History</p>
+                </a></li>
+                <li><a href="pages/medhistory.html" data-ajax="false">
+                    <img src="assets/images/main/medical.png" />
+                    <h3>Medical History <span class="complete"></span></h3>
+                    <p>Enter Applicant Medical Conditions</p>
+                </a></li>
+                <li><a href="pages/program.html" data-ajax="false">
+                    <img src="assets/images/main/course.png" />
+                    <h3>Program Information <span class="complete"></span></h3>
+                    <p>Enter Applicant Program Choice</p>
+                </a></li>
+            </ul>
+        </div><!--/content-primary -->
+    </div>
+</div>
+
+<script type="text/javascript" src="assets/js/vendor/jquery.js"></script>
+<script type="text/javascript" src="assets/js/vendor/jquery.mobile.min.js"></script>
+<script type="text/javascript" src="assets/js/vendor/xdate.js"></script>
+<script type="text/javascript" src="assets/js/utils.js"></script>
+<script type="text/javascript" src="assets/js/queue.js"></script>
+<script type="text/javascript" src="assets/js/db.js"></script>
+<script type="text/javascript" src="assets/js/main.js"></script>
+<script type="text/javascript">
+    $(function() {
+        dbApp.setup();
+    });
+
+</script>
+</body>
+</html>

@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <programs>
+        <program>
+            <Code>COED.3DCAD.CT.SJPP</Code>
+            <Programname>3D Autocad Drawing (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>ACTS.CT.SJPP</Code>
+            <Programname>Accounts Technology Certificate (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>ACTS.DP.SJPP</Code>
+            <Programname>Accounts Technology Diploma (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>AGRI.DP.SJPP</Code>
+            <Programname>Agriculture Diploma (Agriculture - SJPP)</Programname>
+            <Facultyname>Agriculture - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>AHUS.CT.SJPP</Code>
+            <Programname>Animal Husbandry Certificate (Agriculture - SJPP)</Programname>
+            <Facultyname>Agriculture - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.APET.CT.SJPP</Code>
+            <Programname>Applied Electronics for Technicians (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>APET.CT.PT.SJPP</Code>
+            <Programname>Applied Electronics Technology Certificate (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>DRFT.DP.SJPP</Code>
+            <Programname>Architectural Drafting Diploma (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>DRFT.DP.PT.SJPP</Code>
+            <Programname>Architectural Drafting Diploma (Part-time) (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.AUTO.CT.SJPP</Code>
+            <Programname>Autobody Repairs (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.AUTO.SJPP</Code>
+            <Programname>Autobody Repairs (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.AUTO.SJPP</Code>
+            <Programname>Autobody Repairs (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>AUTO.CT.PT.SJPP</Code>
+            <Programname>Autobody Repairs Certificate (Part-time) (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>AUTO.DP.SJPP</Code>
+            <Programname>Autobody Repairs Diploma (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.AUEL.CT.SJPP</Code>
+            <Programname>Automotive Electrics (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CARM.CT.SJPP</Code>
+            <Programname>Basic Car Maintenance (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.CMPM.SJPP</Code>
+            <Programname>Basic Computer Maintenance (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>CMPM.CT.SJPP</Code>
+            <Programname>Basic Computer Maintenance Certificate (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.MSHP.CT.SJPP</Code>
+            <Programname>Basic Machine Shop (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.MECH.CT.SJPP</Code>
+            <Programname>Basic Mechanical Maintenance (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.BEAU.AD.CT.SJPP</Code>
+            <Programname>Beauty Therapy - Advanced (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.BEAU.BA.CT.SJPP</Code>
+            <Programname>Beauty Therapy - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.BLCK.CT.SJPP</Code>
+            <Programname>Blocklaying &amp; Concreting (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.BOOK.CT.SJPP</Code>
+            <Programname>Bookbinding (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.DRAW.CT.SJPP</Code>
+            <Programname>Building Drawing (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>BUMC.CT.ONL.PT.SJPP</Code>
+            <Programname>Building Maintenance Certificate (Online) (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>BUMC.CT.PB.PT.SJPP</Code>
+            <Programname>Building Maintenance Certificate (Paper-based) (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>OFLC.BLAW.ONL.SJPP</Code>
+            <Programname>Business Law (Online) (Open &amp; Flexible Learning Centr)</Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>OFLC.BLAW.PB.SJPP</Code>
+            <Programname>Business Law (Paper-based) (Open &amp; Flexible Learning Centr)</Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>FURN.CT.PT.SJPP</Code>
+            <Programname>Cabinet &amp; Furniture Making Certificate (Part-time) (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>FURN.DP.SJPP</Code>
+            <Programname>Cabinet &amp; Furniture Making Diploma (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CABM.CT.SJPP</Code>
+            <Programname>Cabinet Making (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CAKE.AD.CT.SJPP</Code>
+            <Programname>Cake &amp; Pastry Making - Advanced (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CAKE.BA.CT.SJPP</Code>
+            <Programname>Cake &amp; Pastry Making - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.CAKE.SJPP</Code>
+            <Programname>Cake and Pastry Making (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.JOIN.SJPP</Code>
+            <Programname>Carpentry &amp; Joinery (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CARJ.CT.SJPP</Code>
+            <Programname>Carpentry &amp; Joinery (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>JOIN.CT.PT.SJPP</Code>
+            <Programname>Carpentry &amp; Joinery Certificate (Part-time) (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>JOIN.DP.SJPP</Code>
+            <Programname>Carpentry &amp; Joinery Diploma (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>CATR.CT.SJPP</Code>
+            <Programname>Catering Certificate (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CCNM.CT.SJPP</Code>
+            <Programname>Child Care &amp; Nursery Management (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>WELF.CCNM.SJPP</Code>
+            <Programname>Child Care &amp; Nursery Management - Welfare Sponsored (Distance &amp; Continuing Edu)
+            </Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>CCNM.CT.ONL.PT.SJPP</Code>
+            <Programname>Child Care &amp; Nursery Management Cert (Online) (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>CCNM.CT.PB.PT.SJPP</Code>
+            <Programname>Child Care &amp; Nursery Management Cert (Paper-based) (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.CCNM.SJPP</Code>
+            <Programname>Child Care Management (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>CCNM.CT.PT.SJPP</Code>
+            <Programname>Child Care Management Cert (Part-time) (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CADD.CT.SJPP</Code>
+            <Programname>Computer Aided Drawing (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.GRPH.CT.SJPP</Code>
+            <Programname>Computer Graphics (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.COMP.CT.SJPP</Code>
+            <Programname>Computer Maintenance (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CONS.CT.SJPP</Code>
+            <Programname>Construction Supervision Certificate (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CONS.DP.SJPP</Code>
+            <Programname>Construction Supervision Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CSUM.CT.SJPP</Code>
+            <Programname>Consumer Equipment Servicing (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CT.SJPP</Code>
+            <Programname>Continuing Education Certificate (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.DP.SJPP</Code>
+            <Programname>Continuing Education Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.COOK.SJPP</Code>
+            <Programname>Cookery (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>COED.COOK.AD.CT.SJPP</Code>
+            <Programname>Cookery - Advanced (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.COOK.BA.CT.SJPP</Code>
+            <Programname>Cookery - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COSM.DP.SJPP</Code>
+            <Programname>Cosmetology Diploma (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>CHUS.CT.SJPP</Code>
+            <Programname>Crop Husbandry Certificate (Agriculture - SJPP)</Programname>
+            <Facultyname>Agriculture - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>SMBU.CT.ONL.PT.SJPP</Code>
+            <Programname>Do Not Use (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>BLAW.CT.ONL.PT.SJPP</Code>
+            <Programname>Do Not Use (Open &amp; Flexible Learning Centr)</Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>COED.DRPE.AD.CT.SJPP</Code>
+            <Programname>Drapery &amp; Soft Furninings 2 (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.DRES.AD.CT.SJPP</Code>
+            <Programname>Dressmaking - Advanced (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.DRES.BA.CT.SJPP</Code>
+            <Programname>Dressmaking - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.EETD.DP.SJPP</Code>
+            <Programname>Electrical &amp; Electronics Technicians Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>EETD.DP.PT.SJPP</Code>
+            <Programname>Electrical &amp; Electronics Technology Diploma (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.EINS.SJPP</Code>
+            <Programname>Electrical Installation (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.WIRE.SJPP</Code>
+            <Programname>Electrical Installation (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>COED.EINS.CT.SJPP</Code>
+            <Programname>Electrical Installation 1 (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>WIRE.CT.PT.SJPP</Code>
+            <Programname>Electrical Installation Certificate (Part-time) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.EINS.DP.SJPP</Code>
+            <Programname>Electrical Installation Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>EINS.DP.SJPP</Code>
+            <Programname>Electrical Installation Diploma (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>EINS.DP.PT.SJPP</Code>
+            <Programname>Electrical Installation Diploma (Part-time) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>WIRE.CT.PB.PT.SJPP</Code>
+            <Programname>Electrical Installation Wiring Cert (Paper-based) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>WIRE.CT.ONL.PT.SJPP</Code>
+            <Programname>Electrical Installation Wiring Certificate (Online) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>WIRE.CT.SJPP</Code>
+            <Programname>Electrical Wiring Certificate (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.EDPM.CXC.SJPP</Code>
+            <Programname>Electronic Document Preparation &amp; Management - CXC (Distance &amp; Continuing Edu)
+            </Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.ELST.DP.SJPP</Code>
+            <Programname>Electronics Servicing Technology Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>ESRV.DP.SJPP</Code>
+            <Programname>Electronics Servicing Technology Diploma (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>ESRV.DP.PT.SJPP</Code>
+            <Programname>Electronics Servicing Technology Diploma (Part-time) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.CNSL.CT.SJPP</Code>
+            <Programname>Elements of Basic Counselling (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.ENGA.SJPP</Code>
+            <Programname>English (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>COED.ENGA.CXC.SJPP</Code>
+            <Programname>English Language - CXC (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>ESTH.CT.SJPP</Code>
+            <Programname>Esthetics Certificate (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.GARD.CT.SJPP</Code>
+            <Programname>Gardening &amp; Plant Care (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>GARM.CT.SJPP</Code>
+            <Programname>Garment Making Certificate (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GARM.AD.CT.SJPP</Code>
+            <Programname>Garment Making Part 2 (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GERI.CT.ONL.PT.SJPP</Code>
+            <Programname>Geriatric Studies Certificate (Online) (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GERI.CT.PB.PT.SJPP</Code>
+            <Programname>Geriatric Studies Certificate (Paper-based) (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GERI.CT.SJPP</Code>
+            <Programname>Geriatrics Studies Certificate (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GRDBK.DP.SJPP</Code>
+            <Programname>Gradebook Test (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>HOAS.DP.SJPP</Code>
+            <Programname>Home Appliance Servicing Diploma (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>HOME.DP.SJPP</Code>
+            <Programname>Home Economics Diploma (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>NABD.HMHC.SJPP</Code>
+            <Programname>Home Help Care (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.HOTS.CT.SJPP</Code>
+            <Programname>Hotstones Treatment Therapy (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.INFO.CXC.SJPP</Code>
+            <Programname>Information Technology - CXC (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>ITCO.CT.PT.SJPP</Code>
+            <Programname>Information Technology for IT Coordinators (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.DCOR.AD.CT.SJPP</Code>
+            <Programname>Interior Decoration - Advanced (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.DCOR.BA.CT.SJPP</Code>
+            <Programname>Interior Decoration - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.EVNT.CT.SJPP</Code>
+            <Programname>Introduction to Event Planning (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.LADY.AD.CT.SJPP</Code>
+            <Programname>Ladies Tailoring - Advanced (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.LADY.BA.CT.SJPP</Code>
+            <Programname>Ladies Tailoring - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>LAND.CT.SJPP</Code>
+            <Programname>Landscaping &amp; Horticulture Certificate (Agriculture - SJPP)</Programname>
+            <Facultyname>Agriculture - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MDEN.DP.SJPP</Code>
+            <Programname>Marine Diesel Engineering Diploma (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MARI.CT.SJPP</Code>
+            <Programname>Maritime Operations Certificate (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.MASN.SJPP</Code>
+            <Programname>Masonry (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>MASN.DP.SJPP</Code>
+            <Programname>Masonry Diploma (Mechanical Maintenance - SJPP)</Programname>
+            <Facultyname>Mechanical Maintenance - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.MASS.BA.CT.SJPP</Code>
+            <Programname>Massage Therapy - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.MATH.SJPP</Code>
+            <Programname>Mathematics (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>COED.MATH.CXC.SJPP</Code>
+            <Programname>Mathematics - CXC (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>MECH.DP.SJPP</Code>
+            <Programname>Mechanical Maintenance Diploma (Mechanical Maintenance - SJPP)</Programname>
+            <Facultyname>Mechanical Maintenance - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MICR.CT.ONL.PT.SJPP</Code>
+            <Programname>Micro Computer Technology Certificate (Online) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MICR.DP.SJPP</Code>
+            <Programname>Micro Computer Technology Diploma (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MICR.DP.ONL.PT.SJPP</Code>
+            <Programname>Micro Computer Technology Diploma (Online) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MICR.DP.PT.SJPP</Code>
+            <Programname>Micro Computer Technology Diploma (Part-time) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.MICR.DP.SJPP</Code>
+            <Programname>Micro Electronics Technology Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.MVEN.CT.SJPP</Code>
+            <Programname>Motor Vehicle Engine Certificate (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.MVEN.DP.SJPP</Code>
+            <Programname>Motor Vehicle Engine Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.MVEN.SJPP</Code>
+            <Programname>Motor Vehicle Engineering (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.MVEN.SJPP</Code>
+            <Programname>Motor Vehicle Engineering (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>MVEN.CT.ONL.PT.SJPP</Code>
+            <Programname>Motor Vehicle Engineering Certificate (Online) (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MVEN.CT.PB.PT.SJPP</Code>
+            <Programname>Motor Vehicle Engineering Certificate (Paper-based) (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MVEN.CT.PT.SJPP</Code>
+            <Programname>Motor Vehicle Engineering Certificate (Part-time) (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MVEN.DP.SJPP</Code>
+            <Programname>Motor Vehicle Engineering Diploma (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>MVEN.DP.PT.SJPP</Code>
+            <Programname>Motor Vehicle Engineering Diploma (Part-time) (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.NAIL.SJPP</Code>
+            <Programname>Nail Technology (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>COED.NETA.CT.SJPP</Code>
+            <Programname>Network Administration (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.NETC.CT.SJPP</Code>
+            <Programname>Network Cabling (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>NETW.DP.SJPP</Code>
+            <Programname>Network Technologies Diploma (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.NURS.SJPP</Code>
+            <Programname>Nursing Auxiliary (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>WELF.NURS.SJPP</Code>
+            <Programname>Nursing Auxiliary (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>NURS.CT.SJPP</Code>
+            <Programname>Nursing Auxiliary Studies (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>NURS.CT.ONL.PT.SJPP</Code>
+            <Programname>Nursing Auxiliary Studies (online) (Open &amp; Flexible Learning Centr)</Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>NURS.CT.PB.PT.SJPP</Code>
+            <Programname>Nursing Auxiliary Studies (paperbased) (Open &amp; Flexible Learning Centr)</Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>NURS.CT.PT.SJPP</Code>
+            <Programname>Nursing Auxiliary Studies (Part-time) (Human Ecology - SJPP)</Programname>
+            <Facultyname>Human Ecology - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>OFLC.OHSW.ONL.SJPP</Code>
+            <Programname>Occupational Health, Safety &amp; Welfare (Online) (Open &amp; Flexible Learning Centr)
+            </Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>OFLC.OHSW.PB.SJPP</Code>
+            <Programname>Occupational Health, Safety &amp; Welfare (Paper-based) (Open &amp; Flexible Learning Centr)
+            </Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>OFFA.CT.SJPP</Code>
+            <Programname>Office Administration Certificate (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>OFFA.CT.ONL.PT.SJPP</Code>
+            <Programname>Office Administration Certificate (Online) (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>OFFA.CT.PB.PT.SJPP</Code>
+            <Programname>Office Administration Certificate (Paper-based) (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>OFFA.DP.SJPP</Code>
+            <Programname>Office Administration Diploma (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>OFFA.DP.ONL.PT.SJPP</Code>
+            <Programname>Office Administration Diploma (Online) (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>OFFA.DP.PB.PT.SJPP</Code>
+            <Programname>Office Administration Diploma (Paper-based) (Business Studies - SJPP)</Programname>
+            <Facultyname>Business Studies - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>PDEC.CT.SJPP</Code>
+            <Programname>Painting &amp; Decorating Certificate (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.PLNT.CT.SJPP</Code>
+            <Programname>Plant Maintenance (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.PLUM.CT.SJPP</Code>
+            <Programname>Plumbing (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.PLMB.SJPP</Code>
+            <Programname>Plumbing (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>PLMB.CT.PT.SJPP</Code>
+            <Programname>Plumbing Certificate (Part-time) (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>PLMB.DP.SJPP</Code>
+            <Programname>Plumbing Diploma (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.ACCT.CXC.SJPP</Code>
+            <Programname>Principles of Accounts - CXC (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.LAND.CT.SJPP</Code>
+            <Programname>Principles of Landscape Design (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>PRNT.CT.SJPP</Code>
+            <Programname>Printing Certificate (Mechanical Maintenance - SJPP)</Programname>
+            <Facultyname>Mechanical Maintenance - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.QKBK.AD.CT.SJPP</Code>
+            <Programname>Quickbooks - Advanced (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.QKBK.BA.CT.SJPP</Code>
+            <Programname>Quickbooks - Basic (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.RFAC.SJPP</Code>
+            <Programname>Refrigeration &amp; Air-Conditioning (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>RFAC.CT.ONL.PT.SJPP</Code>
+            <Programname>Refrigeration &amp; Air-Conditioning Certificate (Online) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.RFAC.DP.SJPP</Code>
+            <Programname>Refrigeration &amp; Air-Conditioning Diploma (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>RFAC.DP.SJPP</Code>
+            <Programname>Refrigeration &amp; Air-Conditioning Diploma (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>RFAC.DP.ONL.PT.SJPP</Code>
+            <Programname>Refrigeration &amp; Air-Conditioning Diploma (Online) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>RFAC.DP.PB.PT.SJPP</Code>
+            <Programname>Refrigeration &amp; Air-Conditioning Diploma (Paper-based) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>RFAC.DP.PT.SJPP</Code>
+            <Programname>Refrigeration &amp; Air-Conditioning Diploma (Part-time) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>RFAC.CT.PB.PT.SJPP</Code>
+            <Programname>Refrigeration &amp; Airconditioning Cert (Paper-based) (Electrical - SJPP)</Programname>
+            <Facultyname>Electrical - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.RCAD.CT.SJPP</Code>
+            <Programname>Residential Computer Aided Drafting 1 (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.SMBF.CT.SJPP</Code>
+            <Programname>Small Builder's Foremanship (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>OFLC.SMBU.ONL.SJPP</Code>
+            <Programname>Small Business Management (Online) (Open &amp; Flexible Learning Centr)</Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>OFLC.SMBU.PB.SJPP</Code>
+            <Programname>Small Business Management (Paper-based) (Open &amp; Flexible Learning Centr)</Programname>
+            <Facultyname>Open &amp; Flexible Learning Centr</Facultyname>
+        </program>
+        <program>
+            <Code>COED.SBMT.CT.SJPP</Code>
+            <Programname>Small Business Management 1 (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>GOVT.SENR.SJPP</Code>
+            <Programname>Small Engine Repairs (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>SENR.CT.SJPP</Code>
+            <Programname>Small Engine Repairs Certificate (Automotive - SJPP)</Programname>
+            <Facultyname>Automotive - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.SOND.CT.SJPP</Code>
+            <Programname>Sound Technology (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.SVMT.CT.SJPP</Code>
+            <Programname>Supervisory Management (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>UPHT.CT.SJPP</Code>
+            <Programname>Upholstery Certificate (Building - SJPP)</Programname>
+            <Facultyname>Building - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.WEBD.CT.SJPP</Code>
+            <Programname>Webpage Design (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>BVTB.WELD.SJPP</Code>
+            <Programname>Welding (General Studies)</Programname>
+            <Facultyname>General Studies</Facultyname>
+        </program>
+        <program>
+            <Code>WELD.DP.SJPP</Code>
+            <Programname>Welding Engineering Diploma (Welding - SJPP)</Programname>
+            <Facultyname>Welding - SJPP</Facultyname>
+        </program>
+        <program>
+            <Code>COED.WPL1.CT.SJPP</Code>
+            <Programname>Welding Processes Level 1 (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+        <program>
+            <Code>COED.WPL2.CT.SJPP</Code>
+            <Programname>Welding Processes Level 2 (Distance &amp; Continuing Edu)</Programname>
+            <Facultyname>Distance &amp; Continuing Edu</Facultyname>
+        </program>
+    </programs>
+    <size>177</size>
+</xml>

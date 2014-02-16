@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="../assets/css/cal.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile.theme-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/jquery.mobile.structure-1.3.1.min.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/chosen.css">
+</head>
+<body>
+
+<div id="registerPage" data-role="page">
+
+    <div data-role="header" data-position="fixed">
+        <a href="../main.html" data-icon="home" data-ajax="false">Home</a>
+        <h1>Qualification Information Entry Page</h1>
+        <a href="#" data-icon="info" data-ajax="false" onclick="logout()">Logout</a>
+    </div>
+
+    <div data-role="content">
+
+
+        <div class="content-primary">
+            <ul data-role="listview" data-split-icon="gear" data-split-theme="d" id="subjectList">
+            </ul>
+
+            <div data-role="popup" id="deleterec" data-theme="d" data-overlay-theme="b" class="ui-content" style="max-width:340px;">
+                <h3>Remove Record?</h3>
+                <p>The following record will be removed from your application.</p>
+                <a href="#" data-role="button" data-rel="back" data-theme="b" data-icon="check" data-inline="true" data-mini="true" onclick="removeQual();">Confirm</a>
+                <a href="#" data-role="button" data-rel="back" data-inline="true" data-mini="true">Cancel</a>
+            </div>
+
+
+        </div><!--/content-primary -->
+        <br/><br/>
+        <div class="ui-body">
+            <fieldset class="ui-grid-a">
+                <div class="ui-block-a">
+                    <a href="#popupRegister" data-rel="popup" data-position-to="window" data-role="button" data-mini="true">Add Qualification</a>
+                </div>
+                <div class="ui-block-b">
+                    <a href="#" data-role="button" data-mini="true">Next</a>
+                </div>
+            </fieldset>
+        </div>
+
+        <div data-role="popup" id="popupRegister" data-theme="a" class="ui-corner-all" style="width: 140%">
+            <form>
+                <div style="padding:10px 20px;">
+                    <h3>Academic Qualifications</h3>
+                    <label for="year" class="ui-hidden-accessible">Year:</label>
+                    <select id="year" name="year">
+                        <option value="default">Select Year</option>
+                    </select>
+
+                    <label for="exambody" class="ui-hidden-accessible">Exam Body:</label>
+                    <select id="exambody" onchange="changeExamBody(this)" name="exambody">
+                        <option value="default">Select Exam Body</option>
+                    </select>
+
+                    <label for="level" class="ui-hidden-accessible">Grade Level:</label>
+                    <select id="level" name="level">
+                        <option value="default">Select Level</option>
+                    </select>
+
+                    <label for="subject" class="ui-hidden-accessible">Subject:</label>
+                    <select id="subject" data-role="none" style="width:350px;" class="chzn-select" name="subject">
+                        <option value="default">Select Subject</option>
+                    </select>
+
+                    <label for="grade" class="ui-hidden-accessible">Subject:</label>
+                    <select id="grade" name="grade">
+                        <option value="default">Select Grade</option>
+                    </select>
+
+                    <button type="submit" data-theme="b" onclick="saveSubject();">Add Qualification</button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+<script type="text/javascript" src="../assets/js/vendor/jquery.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/jquery.mobile.min.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/xdate.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/mobipick.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/jquery.maskedinput.js"></script>
+<script type="text/javascript" src="../assets/js/vendor/chosen.jquery.js"></script>
+<script type="text/javascript" src="../assets/js/utils.js"></script>
+<script type="text/javascript" src="../assets/js/queue.js"></script>
+<script type="text/javascript" src="../assets/js/db.js"></script>
+<script type="text/javascript" src="../assets/js/main.js"></script>
+
+<script>
+    $(function() {
+
+        $("#year").mask("9999");
+
+        $("#zipcode").mask("99999");
+
+        dbApp.setup();
+
+        dbApp.getExamBodyDataFromDb('exambody');
+
+        dbApp.getLevelDataFromDb('level');
+
+        dbApp.getSubjectDataFromDb('subject');
+
+        dbApp.getExamBodyGradeDataFromDb('grade');
+
+        $(".chzn-select").chosen();
+
+        populateQualPage();
+
+        populateYear('year');
+
+    });
+
+
+</script>
+
+</body>
+</html>

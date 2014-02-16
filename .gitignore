@@ -1,0 +1,16 @@
+# Created by http://gitignore.io
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+logs/*
+!.gitkeep
+libpeerconnection.log
+node_modules/
+.DS_Store
+.idea/
+coverage/
+lcov/
